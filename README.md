@@ -39,7 +39,7 @@
     PPSX File <a href="">Presentation.ppsx</a> <br>
     <br>
     فايل ترجمه مقاله Word : <br>
-[DocFile.docx]()
+[DocFile.docx](https://github.com/majidlotfi/Seminar/raw/main/DocFile.docx)
     <br>
      فايل ترجمه مقاله PDF : <br>
 [PdfFile.pdf]()

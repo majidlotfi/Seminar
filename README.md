@@ -30,7 +30,7 @@
   <details> 
     <summary><kbd>↩</kbd></summary>
     فايل گزارش Word : <br>
-[DocFile.docx]()
+[Seminar.docx](https://github.com/majidlotfi/Seminar/raw/main/Seminar.docx)
     <br>
      فايل گزارش PDF : <br>
 [PdfFile.pdf]()

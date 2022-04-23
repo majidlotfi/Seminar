@@ -33,7 +33,7 @@
 [Seminar.docx](https://github.com/majidlotfi/Seminar/raw/main/Seminar.docx)
     <br>
      فايل گزارش PDF : <br>
-[PdfFile.pdf]()
+[PdfFile.pdf](https://github.com/majidlotfi/Seminar/raw/main/DocFile.pdf)
     <br>
     فايل ارائه Powerpoint : <br>
     PPSX File <a href="">Presentation.ppsx</a> <br>

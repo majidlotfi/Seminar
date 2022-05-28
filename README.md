@@ -42,7 +42,7 @@
 [DocFile.docx](https://github.com/majidlotfi/Seminar/raw/main/DocFile.docx)
     <br>
      فايل ترجمه مقاله PDF : <br>
-[PdfFile.pdf]()
+[PdfFile.pdf](https://github.com/majidlotfi/Seminar/raw/main/DocFile.pdf)
     <br>
 
 </details>  

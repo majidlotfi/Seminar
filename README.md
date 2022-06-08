@@ -33,10 +33,10 @@
 [Seminar.docx](https://github.com/majidlotfi/Seminar/raw/main/Seminar.docx)
     <br>
      فايل گزارش PDF : <br>
-[PdfFile.pdf]()
+[PdfFile.pdf](https://github.com/majidlotfi/Seminar/raw/main/Seminar.pdf)
     <br>
     فايل ارائه Powerpoint : <br>
-    PPSX File <a href="">Presentation.ppsx</a> <br>
+[PowerPoint.pptx](https://github.com/majidlotfi/Seminar/raw/main/PowerPoint.pptx)
     <br>
     فايل ترجمه مقاله Word : <br>
 [DocFile.docx](https://github.com/majidlotfi/Seminar/raw/main/DocFile.docx)
